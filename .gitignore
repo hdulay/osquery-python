@@ -3,3 +3,5 @@ build
 osquery.egg-info
 dist
 .eggs
+ccloud.json
+.vscode
